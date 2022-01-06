@@ -1,7 +1,7 @@
 # Quart-Discord
 [![PyPI](https://img.shields.io/pypi/v/Quart-Discord?style=for-the-badge)](https://pypi.org/project/Quart-Discord/) [![Read the Docs](https://img.shields.io/readthedocs/quart-discord?style=for-the-badge)](https://quart-discord.readthedocs.io/en/latest/) 
 
-Discord OAuth2 extension for Quart.
+A version of Quart-Discord which has no requirement for discord.py or any other discord bot library
 
 
 ### Installation
@@ -70,7 +70,6 @@ For an example to the working application, check [`test_app.py`](tests/test_app.
 * Quart
 * Async-OAuthlib
 * cachetools
-* discord.py
 
 
 ### Documentation
