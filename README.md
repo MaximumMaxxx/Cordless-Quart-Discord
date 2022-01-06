@@ -7,7 +7,7 @@ A version of Quart-Discord which has no requirement for discord.py or any other 
 ### Installation
 To install current latest release you can use following command:
 ```sh
-python3 -m pip install Quart-Discord
+python3 -m pip install git+https://github.com/MaximumMaxxx/Quart-Discord/master
 ```
 
 
