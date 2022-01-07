@@ -1,7 +1,7 @@
 import jwt
 import typing
 import asyncio
-from .models.discordpystuff.permissions import Permissions
+from .models.permissions import Permissions
 
 from . import configs, _http, models, utils, exceptions
 
