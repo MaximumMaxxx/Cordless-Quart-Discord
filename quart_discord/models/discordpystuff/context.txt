@@ -1,4 +1,0 @@
-Alright so some quick context here,
-I just copy and pasted this stuff from discord.py
-I did this so I could use pycord but also you could use any other
-python discord library without fear of stuff breaking
