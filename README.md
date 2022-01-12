@@ -5,9 +5,9 @@ A version of Quart-Discord which has no requirement for discord.py or any other 
 
 
 ### Installation
-To install current latest release you can use following command:
+To install current latest package use: There are currently no plans for a proper pypi release
 ```sh
-python3 -m pip install https://github.com/MaximumMaxxx/Cordless-Quart-Discord
+python3 -m pip install git+https://github.com/MaximumMaxxx/Cordless-Quart-Discord
 ```
 
 
