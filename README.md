@@ -1,13 +1,13 @@
 # Quart-Discord
 [![PyPI](https://img.shields.io/pypi/v/Quart-Discord?style=for-the-badge)](https://pypi.org/project/Quart-Discord/) [![Read the Docs](https://img.shields.io/readthedocs/quart-discord?style=for-the-badge)](https://quart-discord.readthedocs.io/en/latest/) 
 
-A version of Quart-Discord which has no requirement for discord.py or any other discord bot library
+A version of Quart-Discord which has no requirement for discord.py or any other discord bot library. Syntax is identical with the original quart-discord project because the changes largely just involve copying files over from discord.py.
 
 
 ### Installation
-To install current latest release you can use following command:
+To install current latest package use: There are currently no plans for a proper pypi release
 ```sh
-python3 -m pip install https://github.com/MaximumMaxxx/Cordless-Quart-Discord
+python3 -m pip install git+https://github.com/MaximumMaxxx/Cordless-Quart-Discord
 ```
 
 
